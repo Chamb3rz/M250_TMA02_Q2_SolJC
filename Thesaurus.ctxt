@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Thesaurus
+comment0.text=\r\n\ The\ Thesaurus\ class\ provides\ synonyms\ for\ a\ given\ word\ leveraging\ hashmaps\r\n\ and\ hashsets.\ It\ will\ be\ used\ to\ create\ a\ new\ sentance\ by\ replacing\ a\ word\r\n\ with\ its\ synonym.\r\n\ \r\n\ @author\ Jake\ Chambers\ K5467717\r\n\ @version\ V1.0\ 15/02/2022\r\n\ \ \ \ \ \ \ \ \ \ Q1a\r\n
+comment1.params=
+comment1.target=Thesaurus()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Thesaurus\r\n\ Q2c.\r\n
+comment2.params=
+comment2.target=java.util.HashMap\ getThesaurus()
+comment2.text=\r\n\ return\ the\ synonyms\ map\ for\ testing\r\n\ Q2d.\r\n
+comment3.params=
+comment3.target=void\ populate()
+comment3.text=\r\n\ populate\ sample\ key\:value\ pairs\ into\ the\ synonyms\ map\r\n\ Q2e.\r\n
+comment4.params=
+comment4.target=void\ print()
+comment4.text=\r\n\ print\ out\ key\:value\ pairs\ held\ in\ the\ synonyms\ hashmap\r\n\ Q2f.\r\n
+comment5.params=aWord\ aSynonym
+comment5.target=void\ addSynonym(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ add\ a\ new\ word\ to\ the\ synonym\ map\r\n\ Q2g.\r\n
+comment6.params=aWord\ aSentence
+comment6.target=void\ replaceWord(java.lang.String,\ java.lang.String)
+comment6.text=\r\n\ replace\ a\ word\ in\ a\ given\ string\ with\ a\ synonym\ from\ the\ synonyms\ map\r\n\ Q2h.\r\n
+comment7.params=
+comment7.target=void\ crossReference()
+comment7.text=\r\n\ \r\n\ Q2i.\r\n
+numComments=8
